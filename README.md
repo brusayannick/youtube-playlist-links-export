@@ -1,7 +1,9 @@
 # youtube-playlist-links-export
-python script to grab Youtube Video URL's from public Youtube Playlists
+python script to grab Youtube Video URL's from public Youtube Playlists using the Youtube Data API.
 
-Prerequisites: requests (pip install requests)
+Prerequisites: 
+- requests (pip install requests)
+- a Google Account and access to the Google Developer Console
 
 You can get the API-Key like that: https://developers.google.com/youtube/v3/docs#calling-the-api
 
